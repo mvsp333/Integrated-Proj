@@ -16,6 +16,4 @@ spacy
 sumy
 lxml
 lxml[html_clean]
-lxml_html_clean
 gensim
-fitz
